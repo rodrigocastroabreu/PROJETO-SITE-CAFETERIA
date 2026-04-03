@@ -68,9 +68,3 @@ Para implementar um projeto similar, siga esta ordem baseada no curso DevMedia:
 5. **Insira conteúdo externo**: Adicione elementos como o mapa do Google Maps.
 6. **Crie o estilo CSS**: Aplique os estilos finais à página.
 
-## Licença
-
-Este projeto é para fins educacionais. Todos os direitos reservados à Manhattan Coffee House.
-
-Desenvolvido por Rodrigo Castro Abreu.</content>
-<parameter name="filePath">c:\Users\rodri\Documents\DESENVOLVEDOR WEB\PROJETO-SITE-CAFETERIA\README.md
