@@ -2,6 +2,14 @@
 
 Este é o projeto de um website para a **Manhattan Coffee House**, uma cafeteria fictícia localizada no Rio de Janeiro. O site apresenta informações sobre a cafeteria, seus produtos, horários de funcionamento e contato.
 
+Este projeto faz parte do curso de desenvolvimento web da **DevMedia**, onde estou estudando e implementando as especificações fornecidas.
+
+## Status do Projeto
+
+- ✅ **1. Apresentação**: Concluído
+- ✅ **2. Especificações do Projeto**: Concluído
+- ✅ **3. Implementação do projeto**: Concluído
+
 ## Descrição do Projeto
 
 O website inclui as seguintes seções:
@@ -51,18 +59,18 @@ O site é estático e não requer servidor para visualização.
 
 ## Ordem de Implementação Sugerida
 
-Para implementar um projeto similar, siga esta ordem:
+Para implementar um projeto similar, siga esta ordem baseada no curso DevMedia:
 
-1. **Organize a estrutura**: Crie pastas e arquivos HTML e CSS vazios.
-2. **Baixe as imagens**: Salve em uma pasta `/assets`.
-3. **Crie o código HTML**: Inclua a lista informativa da página.
-4. **Configure os links de navegação**.
-5. **Insira conteúdo externo**: Como o mapa do Google Maps.
-6. **Crie o estilo CSS**.
+1. **Organize a estrutura**: Crie pastas e arquivos HTML e CSS vazios. Tenha em mãos as especificações e documentação como referência.
+2. **Baixe as imagens**: Salve as imagens em uma pasta do projeto, como `/assets`.
+3. **Crie o código HTML**: Durante a criação, inclua a lista informativa da página.
+4. **Configure os links de navegação**: Configure os links para navegação interna na página.
+5. **Insira conteúdo externo**: Adicione elementos como o mapa do Google Maps.
+6. **Crie o estilo CSS**: Aplique os estilos finais à página.
 
 ## Licença
 
 Este projeto é para fins educacionais. Todos os direitos reservados à Manhattan Coffee House.
 
-Desenvolvido por [Seu Nome].</content>
+Desenvolvido por Rodrigo Castro Abreu.</content>
 <parameter name="filePath">c:\Users\rodri\Documents\DESENVOLVEDOR WEB\PROJETO-SITE-CAFETERIA\README.md
