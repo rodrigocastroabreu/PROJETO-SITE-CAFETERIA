@@ -1,0 +1,68 @@
+# Projeto: Website para uma Cafeteria
+
+Este é o projeto de um website para a **Manhattan Coffee House**, uma cafeteria fictícia localizada no Rio de Janeiro. O site apresenta informações sobre a cafeteria, seus produtos, horários de funcionamento e contato.
+
+## Descrição do Projeto
+
+O website inclui as seguintes seções:
+- **Banner**: Apresentação da cafeteria com efeito parallax.
+- **Informações**: Descrição sobre o café especial oferecido.
+- **Sobre o Café Manhattan**: Detalhes sobre o produto.
+- **Contatos e Endereço**: Mapa do Google Maps integrado e informações de contato.
+- **Horários de Funcionamento**: Lista dos horários de abertura.
+
+O design utiliza efeitos parallax para as imagens de fundo, proporcionando uma experiência visual atrativa.
+
+## Tecnologias Utilizadas
+
+- **HTML5**: Estrutura da página.
+- **CSS3**: Estilização, incluindo efeitos parallax e responsividade.
+- **Google Fonts**: Fontes personalizadas (Fraunces, Lato, Merriweather, Oswald, Poppins).
+- **Google Maps Embed**: Para exibir a localização da cafeteria.
+
+## Estrutura do Projeto
+
+```
+PROJETO-SITE-CAFETERIA/
+├── index.html          # Arquivo principal do site
+├── style.css           # Arquivo de estilos CSS
+├── assets/             # Pasta com imagens
+│   ├── cafeteria.jpg
+│   ├── logo.ico
+│   ├── logo.png
+│   ├── parallax-imagem1.png
+│   ├── parallax-imagem2.jpg
+│   ├── parallax-imagem3.jpg
+│   ├── parallax-imagem4.png
+│   └── seta-para-cima.png
+└── README.md           # Este arquivo
+```
+
+## Como Executar
+
+1. Clone o repositório:
+   ```
+   git clone https://github.com/rodrigocastroabreu/PROJETO-SITE-CAFETERIA.git
+   ```
+
+2. Abra o arquivo `index.html` em um navegador web.
+
+O site é estático e não requer servidor para visualização.
+
+## Ordem de Implementação Sugerida
+
+Para implementar um projeto similar, siga esta ordem:
+
+1. **Organize a estrutura**: Crie pastas e arquivos HTML e CSS vazios.
+2. **Baixe as imagens**: Salve em uma pasta `/assets`.
+3. **Crie o código HTML**: Inclua a lista informativa da página.
+4. **Configure os links de navegação**.
+5. **Insira conteúdo externo**: Como o mapa do Google Maps.
+6. **Crie o estilo CSS**.
+
+## Licença
+
+Este projeto é para fins educacionais. Todos os direitos reservados à Manhattan Coffee House.
+
+Desenvolvido por [Seu Nome].</content>
+<parameter name="filePath">c:\Users\rodri\Documents\DESENVOLVEDOR WEB\PROJETO-SITE-CAFETERIA\README.md
