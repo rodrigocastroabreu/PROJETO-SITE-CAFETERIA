@@ -1,6 +1,6 @@
 # Projeto: Website para uma Cafeteria
 
-Este é o projeto de um website para a **Manhattan Coffee House**, uma cafeteria fictícia localizada no Rio de Janeiro. O site apresenta informações sobre a cafeteria, seus produtos, horários de funcionamento e contato.
+Este é o projeto de um website para a **Manhattan Coffee House**. O site apresenta informações sobre a cafeteria, seus produtos, horários de funcionamento e contato.
 
 Este projeto faz parte do curso de desenvolvimento web da **DevMedia**, onde estou estudando e implementando as especificações fornecidas.
 
